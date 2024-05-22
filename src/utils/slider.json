@@ -1,0 +1,51 @@
+[
+  {
+      "name": "Chatbot using Python",
+      "description": "Build a basic chatbot that trained on selected question.",
+      "status": "working",
+      "link": "https://github.com/varuagrathore/chatbot_",
+      "image": "./chatbot1.jpg"
+  },
+  {
+      "name": "Real Time Chat application",
+      "description": "Using Socket API to develop real time chat application.",
+      "link": "https://github.com/varuagrathore/real_time_chat_application1",
+      "image": "./gsr_ar.png",
+      "status": "completed"
+  },
+  {
+      "name": "Python Project",
+      "status": "completed",
+      "description": "using python built small games ",
+      "link": "https://github.com/varuagrathore/python-projects",
+      "image": "./logo_asg.png"
+  },
+  {
+      "name": "Supermarket Sales Dashboard using Power BI",
+      "status": "completed",
+      "description": "Create a dashboard to analyze supermarket sales using Power BI.",
+      "link": "https://powerbi.microsoft.com/en-us/",
+      "image": "./supermarket_sales_dashboard.png"
+  },
+  {
+      "name": "Sentiment Analysis of 100 Articles",
+      "status": "completed",
+      "description": "Perform sentiment analysis on 100 different articles scrapped using Beautiful Soup.",
+      "link": "https://github.com/varuagrathore/Sentiment_analysis",
+      "image": "./sentiment_analysis_articles.jpg"
+  },
+  {
+    "name": "Quote website",
+    "status": "completed",
+    "description": "using REACT built a quote website.",
+    "link": "https://github.com/varuagrathore/MERN_PROJECT/tree/main/gsr",
+    "image": "./ar1.jpg"
+},
+{
+    "name": "Portfolio",
+    "status": "completed",
+    "description": "using REACT built portfolio website.",
+    "link": "https://github.com/varuagrathore/MERN_PROJECT/tree/main/gsr",
+    "image": "./port.png"
+}
+]
